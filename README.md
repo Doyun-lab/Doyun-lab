@@ -1,20 +1,25 @@
-### Hi there 👋
-
-<!--
-**Doyun-lab/Doyun-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello 👋  
 
 
 
+## What I'm learning 🌱
+- Python
+> 「 Numpy 」  
+> 「 Pandas 」  
+> 「 Tensorflow 」  
+> 「 Keras 」  
+
+
+- R
+> 「 Data Preprocessing 」  
+> 「 EDA 」  
+> 「 Various Machine Learning Models 」  
+
+  
+## Mine 💬
+- My e-mail : dy20181480@gmail.com
+- My Blog : [Medium Blog](https://dy20181480.medium.com/)  
+
+
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Doyun-lab)](https://github.com/anuraghazra/github-readme-stats)
