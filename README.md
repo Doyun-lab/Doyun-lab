@@ -18,7 +18,7 @@
   
 ## Mine 💬
 - My e-mail : dy20181480@gmail.com
-- My Blog : [Medium Blog](https://dy20181480.medium.com/)  
+- My Blog : [Medium Blog](https://medium.com/doyuns-lab)  
 
 
   
