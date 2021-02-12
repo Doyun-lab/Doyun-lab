@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KwonDoyun&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Doyun-lab&fontSize=70&animation=twinkling)
 
 <h3 align="center">💻 Learning 💻</h3>
-
+<br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,15 +23,18 @@
   <img src="https://img.shields.io/badge/Tableau-E6E6E6?style=flat-square&logo=Tableau&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>  
 </p>
+<br>
+<br>
+<br>
+<p align="center"> - Knowledge is power. - </p>
 
-<p align="center"> Knowledge is power. </p>
+<h3 align="center"> Mine 💬 </h3>
+<p align="center">
+  <a href="https://medium.com/doyuns-lab"><img src="https://img.shields.io/badge/Medium dev blog-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/doyuns-lab"/></a>
+  <a href="mailto:dy20181480@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=dy20181480@gmail.com"/></a>
+</p>
+<br>
+<br>
+<br>
 
-
-  
-## Mine 💬
-- My e-mail : dy20181480@gmail.com
-- My Blog : [Medium Blog](https://medium.com/doyuns-lab)  
-
-
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Doyun-lab)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Doyun-lab)](https://github.com/anuraghazra/github-readme-stats)</h3>
