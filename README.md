@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KwonDoyun&fontSize=70&animation=twinkling)
 
+<h3 align="center">💻 Learning 💻</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -21,19 +23,8 @@
   <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>  
 </p>
 
+<p align="center"> Knowledge is power. </p>
 
-## What I'm learning 🌱
-- Python
-> 「 Numpy 」  
-> 「 Pandas 」  
-> 「 Tensorflow 」  
-> 「 Keras 」  
-
-
-- R
-> 「 Data Preprocessing 」  
-> 「 EDA 」  
-> 「 Various Machine Learning Models 」  
 
   
 ## Mine 💬
