@@ -28,6 +28,10 @@
 <br>
 <p align="center"> - Knowledge is power. - </p>
 
+<br>
+<br>
+<br>
+<br>
 <h3 align="center"> Mine 💬 </h3>
 <p align="center">
   <a href="https://medium.com/doyuns-lab"><img src="https://img.shields.io/badge/Medium dev blog-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/doyuns-lab"/></a>
@@ -35,6 +39,5 @@
 </p>
 <br>
 <br>
-<br>
 
-<h3 align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Doyun-lab)](https://github.com/anuraghazra/github-readme-stats)</h3>
+
