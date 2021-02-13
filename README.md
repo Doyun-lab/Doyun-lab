@@ -32,12 +32,16 @@
 <br>
 <br>
 <br>
-<h3 align="center"> Mine 💬 </h3>
+<h3 align="center"> Contact 💬 </h3>
 <p align="center">
-  <a href="https://medium.com/doyuns-lab"><img src="https://img.shields.io/badge/Medium dev blog-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/doyuns-lab"/></a>
+  <a href="https://medium.com/doyuns-lab"><img src="https://img.shields.io/badge/Dev blog-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/doyuns-lab"/></a>
   <a href="mailto:dy20181480@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=dy20181480@gmail.com"/></a>
 </p>
 <br>
 <br>
+<br>
+
+[![Doyun-lab Github Stats](https://github-readme-stats.vercel.app/api?username=Doyun-lab&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyun-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
