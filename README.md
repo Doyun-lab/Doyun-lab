@@ -21,12 +21,16 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tableau-E6E6E6?style=flat-square&logo=Tableau&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>  
+  <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>
 </p>
 <br>
 <br>
