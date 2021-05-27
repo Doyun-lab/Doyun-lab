@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=276DC3&height=150&section=header&text=Doyun-lab&fontSize=70&animation=twinkling)
 <br>
 <br>
-<h3 align="center">💻 Learning 💻</h3>
+<h3 align="center">💻  💻</h3>
 <br>
 <br>
 <p align="center">
