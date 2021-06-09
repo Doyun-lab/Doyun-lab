@@ -36,8 +36,12 @@
 <br>
 <br>
 <p align="center"> - Knowledge is power. - </p>
-
 <br>
+<br>
+<h3 align="center"> Publication 📘 </h3>
+<p align="center">
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
+</p>
 <br>
 <br>
 <h3 align="center"> Contact 💬 </h3>
