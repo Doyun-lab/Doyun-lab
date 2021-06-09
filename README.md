@@ -48,7 +48,7 @@
 <h3 align="center"> 🏃‍♂️ Activity 🏃‍♂️ </h3>
 <p align="center">
   <a href="https://www.kiise.or.kr/conference/main/getContent.do?CC=KSC&CS=2020&PARENT_ID=011000&content_no=1281"><img src="https://img.shields.io/badge/KSC2020-00C4CC?style=flat-square&logo=Word&logoColor=white&link=https://www.kiise.or.kr/conference/main/getContent.do?CC=KSC&CS=2020&PARENT_ID=011000&content_no=1281"/></a>
-  <a href="https://medium.com/doyuns-lab/competition-data-creator-camp-the-final-review-f6755961f023"><img src="https://img.shields.io/badge/NIA Top Prize-00C4CC?style=flat-square&logo=Word&logoColor=white&link=https://medium.com/doyuns-lab/competition-data-creator-camp-the-final-review-f6755961f023"/></a>
+  <a href="https://medium.com/doyuns-lab/competition-data-creator-camp-the-final-review-f6755961f023"><img src="https://img.shields.io/badge/NIA Competition (Top Prize)-00C4CC?style=flat-square&logo=Word&logoColor=white&link=https://medium.com/doyuns-lab/competition-data-creator-camp-the-final-review-f6755961f023"/></a>
   <a href="https://medium.com/doyuns-lab/education-how-does-a-particular-drug-affect-stroke-complications-5a083cac93dd"><img src="https://img.shields.io/badge/HIRA Education-00C4CC?style=flat-square&logo=Word&logoColor=white&link=https://medium.com/doyuns-lab/education-how-does-a-particular-drug-affect-stroke-complications-5a083cac93dd"/></a>
   <br>
   <a href="https://medium.com/doyuns-lab/project-high-blood-pressure-diabetes-classification-model-99ab52e68761"><img src="https://img.shields.io/badge/2019 Academic (Encouragement Prize)-00C4CC?style=flat-square&logo=Word&logoColor=white&link=https://medium.com/doyuns-lab/project-high-blood-pressure-diabetes-classification-model-99ab52e68761"/></a>
