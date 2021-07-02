@@ -30,6 +30,13 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tableau-E6E6E6?style=flat-square&logo=Tableau&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>
+  <br>
+  <br>
+  🏥 - Healthcare Data Analysis & Prediction Model Development 
+  <br>
+  📄 - Unstructured Data Analysis and Feature Extraction
+  <br>
+  🔤 - Natural Language Processing
 </p>
 <br>
 <br>
