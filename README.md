@@ -34,9 +34,9 @@
   <br>
   🏥 - Healthcare Data Analysis & Prediction Model Development 
   <br>
-  📄 - Unstructured Data Analysis and Feature Extraction
+  📄 - Unstructured Data Analysis & Feature Extraction
   <br>
-  🔤 - Natural Language Processing
+  🔤 - Social Network Analysis & Natural Language Processing
 </p>
 <br>
 <br>
