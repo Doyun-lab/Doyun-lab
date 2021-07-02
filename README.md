@@ -40,7 +40,6 @@
 </p>
 <br>
 <br>
-<br>
 <h3 align="center"> 🚀 Motto 🚀 </h3>
 <p align="center"> - There is nothing so captivating as new knowledge. - </p>
 <br>
